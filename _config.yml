@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: 我是庄庄-zltrok
+description: This is Zhuang' home.
 logo: favicon.png
-url: kongsong.me
+url: zhuangzhuang.github.io
 rss_url: /feed.xml
 
 # Jekyll
@@ -21,8 +21,8 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
+  disqus: iamzhuang    
+  # duoshuo: iamzhuang
   # youyan: 2122392
   laibili: MTAyMC8yODgzNC81NDA0
 
@@ -34,7 +34,7 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 author:
   #resume: /resume
   name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  about_me: I'm zhuangzhuang, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
  
 # Social Links
 email:               hi@kongsong.me
